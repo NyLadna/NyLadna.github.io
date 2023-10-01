@@ -1,0 +1,50 @@
+@font-face {
+ 	font-family: 'GhastlyPanicCyr';
+ 	src: url('fond/GhastlyPanicCyr.otf');
+ 	font-weight: normal;
+ 	font-style: normal;
+ }  
+ p {
+
+ 	
+ 			color: maroon;
+			font-size: 32px;
+			font-family: 'Rubik Iso', cursive;
+}
+		}
+		body {
+			background-color: #279EFF;
+			font-family: Riimut;
+			font-size: 16xp;
+			color: brown;
+		}
+        
+		span {
+		background-color: #0C356A;
+
+		}
+		div {
+			width: 85%;
+			margin: auto 0;
+			background-color: #40F8FF;
+			box-shadow: 0 0 10px 1px rgba(39, 158, 255, 0.3);
+		}
+		h1{
+			font-size: 32px;
+			color: #0C356A;
+			font-family: 'Ubuntu', sans-serif;
+			
+		}
+		p {
+  	color: brown;
+  	  font-family: GhastlyPanicCyr;
+  	  font-size: 24px;
+  	 }
+  	 a {
+  	 	text-decoration: none;
+  	  color: #0C356A;
+  	  border-bottom: 2px solid transparent;
+  	 }
+a:hover {
+	border-bottom-color: #0C356A;
+}
